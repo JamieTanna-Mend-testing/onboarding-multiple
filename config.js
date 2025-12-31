@@ -3,7 +3,7 @@ module.exports = {
 	onboardingConfig: {
 		extends: [
 			'config:recommended',
-			'github>JamieTanna-Mend-testing:onboarding-multiple:preset',
+			'github>JamieTanna-Mend-testing/onboarding-multiple:preset',
 		],
 	},
 }
